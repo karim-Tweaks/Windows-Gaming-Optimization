@@ -40,3 +40,35 @@ There is no universal optimization setting that guarantees higher FPS or lower l
 ## Need Help?
 
 Visit [Karim Tweaks](https://karimtweaks.netlify.app/) to learn about PC and gaming optimization services.
+
+## Troubleshooting FPS Drops and Stuttering
+
+If your game has sudden FPS drops or stutters, follow these steps before changing advanced settings.
+
+### Step 1: Identify the Problem
+
+- Does the problem happen all the time or only in certain areas?
+- Does GPU or CPU usage change when the stutter occurs?
+- Are CPU or GPU temperatures unusually high?
+- Did the problem start after a driver or Windows update?
+
+### Step 2: Check Performance
+
+- Monitor CPU and GPU temperatures during gameplay.
+- Check RAM usage and background applications.
+
+### Step 3: Test One Change at a Time
+
+- Close unnecessary background applications.
+- Test appropriate in-game graphics settings.
+
+### Important
+
+Avoid random registry edits, unknown optimization scripts, and disabling Windows security features. Back up important data and make a restore point before significant system changes.
+
+Different PCs have different bottlenecks. Diagnose the cause before applying a tweak.
+
+## Need Individual Help?
+
+Visit [Karim Tweaks](https://karimtweaks.netlify.app/) to explore PC and gaming optimization services.
+
